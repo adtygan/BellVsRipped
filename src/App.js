@@ -35,7 +35,7 @@ class App extends Component {
   handlePredictClick = (event) => {
     const formData = this.state.formData;
     this.setState({ isLoading: true });
-    fetch('http://bellvsripped.azurewebsites.net/api/classify?code=fb/TNOeR8eV21Vehv7QNtMihKoEILn7ZAwYhc6tfzFeY6EJy4V7zmg==&img='+formData.textfield1, 
+    fetch('https://bellvsripped.azurewebsites.net/api/classify?code=fb/TNOeR8eV21Vehv7QNtMihKoEILn7ZAwYhc6tfzFeY6EJy4V7zmg==&img='+formData.textfield1, 
       )
       .then(response => response.json())
       .then(response => {
