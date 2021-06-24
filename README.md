@@ -9,11 +9,12 @@ This a fun little web app to classify between **Bell Bottoms** and **Ripped Jean
 - **EVALUATION** - Transfer Learning enabled achieving accuracy of **98.2%** while using very little images per class for training. 
 - **DEPLOYMENT** - Converted the PyTorch model into an ONNX runtime for faster inference. Deployed the ONNX runtime as an API using [Azure Functions](https://azure.microsoft.com/en-in/services/functions/).
 
-Additionally, Using the ***hooks*** functionality of PyTorch, Grad-CAM heatmaps were generated. This helps us understand why the model labels the given image as a particular class. 
-
 `BellVsRipped.ipynb` explains the steps and process in detail, so that it is easy to follow along. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdityaG09/Bell-bottoms-or-Ripped-jeans/blob/main/bell_bottom_or_ripped.ipynb)  
+
+## Performing Grad-CAM 
+Additionally, Using the ***hooks*** functionality of PyTorch, Grad-CAM heatmaps were generated. This helps us understand why the model labels the given image as a particular class. 
 
 | Grad-CAM on Bell bottoms | Grad-CAM on Ripped jeans |
 | ----------- | ----------- |
