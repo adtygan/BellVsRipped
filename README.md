@@ -54,6 +54,6 @@ Additionally, Using the ***hooks*** functionality of PyTorch, Grad-CAM heatmaps 
 
 ### Credits <a name= 'credits'></a>
 
-The web app is built on top of an existing template found here => [ML-React-App-Template](https://github.com/kb22/ML-React-App-Template). Credits to [Karan Bhanot](https://github.com/kb22) 
+The web app is built on top of an existing template found here => [ML-React-App-Template](https://github.com/kb22/ML-React-App-Template). Credits to [Karan Bhanot](https://github.com/kb22).
 
 
