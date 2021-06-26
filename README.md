@@ -11,6 +11,8 @@ This a fun little web app to classify between **Bell Bottoms** and **Ripped Jean
 ### **2. [Machine Learning Process](#machine-learning-process)** 
 
 ### **3. [Performing Grad-CAM](#performing-grad-cam)**
+
+### **4. [Credits](#credits)**
 ---
 
 ### Usage <a name= 'usage'></a>
@@ -49,5 +51,9 @@ Additionally, Using the ***hooks*** functionality of PyTorch, Grad-CAM heatmaps 
 | ----------- | ----------- |
 | <img width="100%" src="https://github.com/AdityaG09/Bell-Vs-Rippped/blob/main/ML/HeatmapImages/bell_bottom_sartorial.png"> | <img width="100%" src="https://github.com/AdityaG09/Bell-Vs-Rippped/blob/main/ML/HeatmapImages/best_ripped_jean_casual.png"> |
 | <img width="100%" src="https://github.com/AdityaG09/Bell-Vs-Rippped/blob/main/ML/HeatmapImages/bell_bottom_women.png"> | <img width="100%" src="https://github.com/AdityaG09/Bell-Vs-Rippped/blob/main/ML/HeatmapImages/ripped_jeans_rough.png"> 
+
+### Credits <a name= 'credits'></a>
+
+The web app is built on top of an existing template found here => [ML-React-App-Template](https://github.com/kb22/ML-React-App-Template). Credits to [Karan Bhanot](https://github.com/kb22) 
 
 
