@@ -20,6 +20,8 @@ Additionally, Using the ***hooks*** functionality of PyTorch, Grad-CAM heatmaps 
 
 | Grad-CAM on Bell bottoms | Grad-CAM on Ripped jeans |
 | ----------- | ----------- |
-| <img width="100%" src="https://github.com/AdityaG09/Bell-bottoms-or-Ripped-jeans/blob/main/heatmap_images/bell_bottom_sartorial.png"> | <img width="100%" src="https://github.com/AdityaG09/Bell-bottoms-or-Ripped-jeans/blob/main/heatmap_images/best_ripped_jean_casual.png"> |
-| <img width="100%" src="https://github.com/AdityaG09/Bell-bottoms-or-Ripped-jeans/blob/main/heatmap_images/bell_bottom_women.png"> | <img width="100%" src="https://github.com/AdityaG09/Bell-bottoms-or-Ripped-jeans/blob/main/heatmap_images/ripped_jeans_rough.png"> 
+
+https://github.com/AdityaG09/Bell-Vs-Rippped/blob/main/ML/HeatmapImages/bell_bottom_sartorial.png
+| <img width="100%" src="https://github.com/AdityaG09/Bell-Vs-Rippped/blob/main/ML/HeatmapImages/bell_bottom_sartorial.png"> | <img width="100%" src="https://github.com/AdityaG09/Bell-Vs-Rippped/blob/main/ML/HeatmapImages/best_ripped_jean_casual.png"> |
+| <img width="100%" src="https://github.com/AdityaG09/Bell-Vs-Rippped/blob/main/ML/HeatmapImages/bell_bottom_women.png"> | <img width="100%" src="https://github.com/AdityaG09/Bell-Vs-Rippped/blob/main/ML/HeatmapImages/ripped_jeans_rough.png"> 
 
